@@ -108,7 +108,7 @@ export default {
     }
   },
   created () {
-    axios.get('http://localhost:3000/recipes').then(response => {
+    axios.get('https://json-server-heroku-qippsfioeh.now.sh/recipes').then(response => {
       this.recipes = response.data;
       response.data.forEach(r => {
         this.ingredients.push(...r.ingredients.map(i => i.name));
