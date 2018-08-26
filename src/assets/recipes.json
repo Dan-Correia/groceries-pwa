@@ -1,0 +1,91 @@
+[
+    {
+        "id": 1,
+        "name": "Arroz de Pato",
+        "doses": 2,
+        "ingredients": [
+            {
+                "quantity": 500,
+                "unitOfMeasure": "g",
+                "name": "Basmati rice"
+            },
+            {
+                "quantity": 300,
+                "unitOfMeasure": "g",
+                "name": "Mock duck"
+            },
+            {
+                "quantity": 5,
+                "unitOfMeasure": "g",
+                "name": "Olive oil"
+            },
+            {
+                "quantity": 5,
+                "unitOfMeasure": "g",
+                "name": "Salt"
+            },
+            {
+                "quantity": 1,
+                "unitOfMeasure": "unit",
+                "name": "Chouriça"
+            },
+            {
+                "quantity": 1,
+                "unitOfMeasure": "clove",
+                "name": "Garlic"
+            },
+            {
+                "quantity": 1,
+                "unitOfMeasure": "cube",
+                "name": "Vegetable broth"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Risotto de cogumelos",
+        "doses": 3,
+        "ingredients": [
+            {
+                "quantity": 1,
+                "unitOfMeasure": "unit",
+                "name": "Onion (chopped"
+            },
+            {
+                "quantity": 3,
+                "unitOfMeasure": "cube",
+                "name": "Vegetable Stock"
+            },
+            {
+                "quantity": 5,
+                "unitOfMeasure": "g",
+                "name": "Olive Oil"
+            },
+            {
+                "quantity": 500,
+                "unitOfMeasure": "g",
+                "name": "Brown Mushrooms"
+            },
+            {
+                "quantity": 300,
+                "unitOfMeasure": "g",
+                "name": "Risotto Rice"
+            },
+            {
+                "quantity": 50,
+                "unitOfMeasure": "g",
+                "name": "Vegan Butter"
+            },
+            {
+                "quantity": 3,
+                "unitOfMeasure": "g",
+                "name": "Salt"
+            },
+            {
+                "quantity": 1,
+                "unitOfMeasure": "g",
+                "name": "Black Pepper"
+            }
+        ]
+    } 
+]
